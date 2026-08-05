@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=8B5CF6,6366F1&height=220&section=header&text=Senior%20Software%20%26%20AI%20Engineer&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Architecting%20Distributed%20Systems%20%7C%20Scalable%20AI%20Pipelines%20%7C%20Full-Stack%20Cloud%20Native&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&custom_colors=0D1117,581C87,7C3AED,6366F1,38BDF8&height=240&section=header&text=Senior%20Software%20%26%20AI%20Engineer&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Distributed%20Systems%20%E2%80%A2%20Scalable%20AI%20Pipelines%20%E2%80%A2%20Cloud-Native%20Architecture&descAlignY=62&descAlign=50&animation=twinkling" width="100%" alt="Header Banner"/>
 
   <br/>
 
@@ -297,5 +297,5 @@ Current_Status:
   
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=8B5CF6,6366F1&height=100&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&custom_colors=0D1117,581C87,7C3AED,6366F1,38BDF8&height=120&section=footer" width="100%" alt="Footer Banner"/>
 </div>
