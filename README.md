@@ -1,4 +1,7 @@
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&custom_colors=0D1117,581C87,7C3AED,6366F1,38BDF8&height=120&section=header" width="100%" alt="header Banner"/>
+  
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&custom_colors=0D1117,581C87,7C3AED,6366F1,38BDF8&height=240&section=header&text=Senior%20Software%20%26%20AI%20Engineer&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Distributed%20Systems%20%E2%80%A2%20Scalable%20AI%20Pipelines%20%E2%80%A2%20Cloud-Native%20Architecture&descAlignY=62&descAlign=50&animation=twinkling" width="100%" alt="Header Banner"/>
 
   <br/>
