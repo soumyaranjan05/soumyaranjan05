@@ -1,304 +1,292 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&custom_colors=0D1117,581C87,7C3AED,6366F1,38BDF8&height=120&section=header" width="100%" alt="header Banner"/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&custom_colors=0D1117,581C87,7C3AED,6366F1,38BDF8&height=240&section=header&text=Senior%20Software%20%26%20AI%20Engineer&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Distributed%20Systems%20%E2%80%A2%20Scalable%20AI%20Pipelines%20%E2%80%A2%20Cloud-Native%20Architecture&descAlignY=62&descAlign=50&animation=twinkling" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:7B2FF7,100:4B0082&height=250&section=header&text=YOUR_NAME&fontSize=60&fontColor=E6E6FA&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%2FML%20%7C%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-  <br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=Senior+Full+Stack+Engineer;.NET+%7C+C%23+%7C+SQL+Server;AI%2FML+%26+Product+Engineering;Building+Scalable+Enterprise+Systems" alt="Typing SVG" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Senior+Software+Architect;Distributed+Systems+%26+LLM+Pipelines;Full-Stack+Cloud-Native+Engineer;Open+Source+Contributor+%26+Tech+Lead" alt="Typing SVG" />
-  </a>
+<br/>
 
-  <p align="center">
-    <a href="https://github.com"><img src="https://img.shields.io/badge/Degree-M.S._in_Computer_Science-8B5CF6?style=for-the-badge&logo=academicons&logoColor=white" alt="Academic Badge"/></a>
-    <a href="https://github.com"><img src="https://img.shields.io/badge/Location-San_Francisco%2C_CA-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge"/></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/Status-Open_to_Lead_Roles-10B981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status Badge"/></a>
-  </p>
+<img src="https://img.shields.io/badge/📍_Location-YOUR_LOCATION-6A0DAD?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/🎓_YOUR_DEGREE-YOUR_UNIVERSITY-7B2FF7?style=for-the-badge&labelColor=1a1a2e" />
 
-  <p align="center">
-    <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-Live_Demo-8B5CF6?style=flat-square&logo=globe&logoColor=white" alt="Portfolio"/></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  </p>
+<br/><br/>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/your-github-username?style=flat-square&color=6366F1&label=FOLLOWERS&logo=github" alt="Followers"/>
-    <img src="https://img.shields.io/github/stars/your-github-username?style=flat-square&color=A855F7&label=TOTAL+STARS&logo=github" alt="Stars"/>
-  </p>
+<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=vercel&logoColor=E6E6FA" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=E6E6FA" /></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=E6E6FA" /></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=E6E6FA" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6A0DAD&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=7B2FF7&labelColor=1a1a2e" />
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=9D4EDD&labelColor=1a1a2e" />
+
 </div>
 
 ---
 
-## 📌 01. About Me
+### 🟣 About Me
 
-```
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│  Passionate Senior Software Engineer & AI Systems Architect with 7+ years of expertise  │
-│  building enterprise-grade distributed backends, real-time ML inference engines, and   │
-│  high-performance web applications processing millions of daily transactions.           │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
+I'm a **Senior Full Stack Engineer** specializing in **.NET, C#, and SQL Server**, with hands-on experience architecting scalable, enterprise-grade systems from database to deployment. My engineering approach blends **backend performance engineering**, **clean API design**, and a growing focus on **AI/ML-driven product features**.
 
-- 🔭 **Engineering Mindset**: Dedicated to clean architecture, zero-downtime microservices, event-driven systems, and scalable fault-tolerant infrastructure.
-- 🧠 **AI & LLM Integration**: Specializing in Retrieval-Augmented Generation (RAG) architectures, fine-tuning open-source LLMs (Llama 3, Mistral), and vector database optimizations (Qdrant, Pinecone, Milvus).
-- ⚡ **Full-Stack Mastery**: Engineering end-to-end applications using React/Next.js on the frontend, paired with high-throughput Go, Python, and Node.js microservices.
-- 🤝 **Leadership & Open Source**: Tech lead experienced in mentoring engineers, driving engineering RFCs, and actively contributing to cloud-native open-source ecosystems.
+I care deeply about system reliability, maintainable architecture, and building software that solves real business problems — not just technically correct code. I approach every project with a **product engineering mindset**: understanding the "why" before writing the "how."
 
-```
-🎯 OPEN TO: Technical Leadership Roles | Principal AI/Software Engineer | High-Impact Advisory
-```
+**Open To:**
+- Senior / Staff Full Stack Engineering roles
+- AI/ML integration & applied engineering projects
+- Open-source collaboration on .NET / cloud-native tooling
+- Technical consulting & architecture reviews
 
 ---
 
-## 🛠️ 02. Tech Stack & Engineering Toolkit
+### 🟣 Tech Stack
 
-<div align="center">
-  <h3>Core Programming Languages</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,go,rust,c,postgres,mongodb,redis&perline=10" alt="Languages"/>
-  </a>
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=cs,js,ts,py,sql&theme=dark" /></p>
 
-  <br/><br/>
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap,tailwind&theme=dark" /></p>
 
-  <h3>Frontend Frameworks & Design Systems</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,html,css,sass,webpack,vite&perline=10" alt="Frontend"/>
-  </a>
+**Backend & Databases**
+<p><img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mssql,postgres,redis&theme=dark" /></p>
 
-  <br/><br/>
-
-  <h3>Backend, Microservices & AI Frameworks</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,pytorch,tensorflow,graphql,kafka,rabbitmq,grpc&perline=10" alt="Backend"/>
-  </a>
-
-  <br/><br/>
-
-  <h3>Cloud Infrastructure, DevOps & Tooling</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,actions,git,linux&perline=10" alt="Cloud DevOps"/>
-  </a>
-</div>
+**Cloud, DevOps & Tooling**
+<p><img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,git,githubactions,vscode,postman&theme=dark" /></p>
 
 ---
 
-## 🧠 03. AI / ML Engineering Matrix
-
-| Domain | Proficiency | Core Frameworks & Technologies | Production Key Use Cases |
-| :--- | :---: | :--- | :--- |
-| **Generative AI & RAG Systems** | `Expert` | PyTorch, LangChain, LlamaIndex, Qdrant | Built multi-modal enterprise search indexing 10M+ internal documents with sub-200ms latency. |
-| **Deep Learning & Computer Vision** | `Advanced` | TensorFlow, OpenCV, TensorRT, CUDA | Implemented edge vision inference models achieving 60 FPS real-time object classification. |
-| **Distributed ML Infrastructure** | `Expert` | Ray, Kubeflow, MLflow, Triton Inference Server | Scaled distributed training cluster across 32x A100 GPUs reducing model iteration cycle by 65%. |
-| **Natural Language Processing** | `Advanced` | Transformers, HuggingFace, SpaCy, vLLM | Fine-tuned domain-specific LLMs for automated financial report extraction with 98.4% accuracy. |
-
----
-
-## 🚀 04. Featured Enterprise Projects
-
-<details>
-<summary><b>⚡ Project 1: Enterprise RAG Architecture Engine</b> (Click to expand)</summary>
-
-<br/>
-
-> **High-throughput enterprise search & LLM inference system handling multi-tenant knowledge bases.**
-
-| Metric | Spec / Value |
-| :--- | :--- |
-| **Tech Stack** | Python (FastAPI), PyTorch, Qdrant Vector DB, Redis Cluster, Next.js, Docker, AWS EKS |
-| **Scale** | 15M+ Document Embeddings, 50,000+ Active Daily Queries |
-| **Performance** | < 180ms P99 Query Latency, 99.99% Service Uptime |
-| **Security** | End-to-End Encryption, SOC2 Compliant, RBAC Fine-grained Vector Filtering |
-| **Impact** | Reduced internal enterprise data discovery time by 75% across 4,000 corporate users. |
-| **Repository** | [`github.com/your-username/enterprise-rag-engine`](https://github.com) |
-
-```python
-# System Core Architecture Flow:
-Document Ingestion -> Chunking Engine -> Vector Embedding (BGE-Large) -> Qdrant HNSW Index 
-   ↓
-User Query -> Semantic Search -> Re-Ranking (Cross-Encoder) -> Context Prompt -> vLLM Inference Engine
-```
-</details>
-
-<details>
-<summary><b>🛡️ Project 2: High-Frequency Event-Driven Microservices Mesh</b> (Click to expand)</summary>
-
-<br/>
-
-> **Distributed financial transaction processing platform with real-time anomaly detection.**
-
-| Metric | Spec / Value |
-| :--- | :--- |
-| **Tech Stack** | Go (Golang), Apache Kafka, gRPC, PostgreSQL (Situs Sharding), Kubernetes, Prometheus |
-| **Scale** | 100,000+ Transactions Per Second (TPS) |
-| **Performance** | Sub-10ms End-to-End Event Processing Latency |
-| **Security** | Zero-Trust Architecture, mTLS Encryption via Istio Service Mesh |
-| **Impact** | Eliminated fraudulent transactions amounting to $2.4M annually in real-time. |
-| **Repository** | [`github.com/your-username/distributed-event-mesh`](https://github.com) |
-
-</details>
-
-<details>
-<summary><b>🌐 Project 3: Next-Gen Cloud-Native Analytics Studio</b> (Click to expand)</summary>
-
-<br/>
-
-> **Real-time collaborative analytics dashboard with serverless data pipelines.**
-
-| Metric | Spec / Value |
-| :--- | :--- |
-| **Tech Stack** | TypeScript, Next.js 14 (App Router), WebSockets, ClickHouse, Apache Superset, TailwindCSS |
-| **Scale** | 2.5 Billion Data Events Streamed Ingestion Monthly |
-| **Performance** | Real-time WebSocket Data Sync with 60 FPS Canvas Rendering |
-| **Security** | OAuth2 / OIDC Single Sign-On, ISO-27001 Certified Infrastructure |
-| **Impact** | Accelerated executive business intelligence reporting from hours to real-time interactive charts. |
-| **Repository** | [`github.com/your-username/cloud-analytics-studio`](https://github.com) |
-
-</details>
-
----
-
-## 💼 05. Professional Work Experience
-
-```
-Staff Software Engineer & AI Architect | FAANG / Tech Enterprise
-[ Jan 2023 – Present ] • San Francisco, CA
-```
-- Led a team of 8 senior engineers architecting next-generation AI platform infrastructure processing 2M+ daily requests.
-- Engineered hybrid RAG pipelines reducing LLM hallucination rate from 14% to under 0.8% across critical business tools.
-- Reduced cloud infrastructure spending by $450K/year through Kubernetes cluster autoscaling and spot instance optimization.
-- **Tech Stack:** `Go` `Python` `PyTorch` `AWS EKS` `Kafka` `Qdrant` `React`
-
-```
-Senior Software Engineer | High-Growth Cloud Unicorn
-[ Jun 2020 – Dec 2022 ] • Palo Alto, CA
-```
-- Designed microservice streaming architecture scaling from 10k to 500k concurrent WebSocket connections.
-- Decreased API P99 latency by 62% by implementing distributed Redis caching and database read-replica sharding.
-- Implemented CI/CD pipelines cut release deployment times from 45 minutes to 4 minutes with zero downtime.
-- **Tech Stack:** `TypeScript` `Node.js` `PostgreSQL` `Redis` `Docker` `Terraform` `GCP`
-
----
-
-## 🏆 06. Key Recognition & Achievements
+### 🟣 AI / ML Expertise
 
 <div align="center">
 
-| Award / Recognition | Issuing Organization | Year | Details & Impact |
-| :--- | :--- | :---: | :--- |
-| **Global AI Innovation Winner** | Global AI Tech Summit | 2024 | First place out of 450+ teams for autonomous code generation tool. |
-| **Engineering Excellence Award** | Tech Enterprise Inc. | 2023 | Awarded for leading zero-downtime migration of core monolithic services. |
-| **Open Source Top Contributor** | Cloud Native Computing Foundation | 2022 | Recognized for core contributions to Kubernetes event-logging modules. |
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Machine Learning Fundamentals | ●●●●○ | Supervised/unsupervised learning, model evaluation, scikit-learn |
+| Natural Language Processing | ●●●○○ | Text classification, embeddings, transformer-based models |
+| LLM Integration | ●●●●○ | Prompt engineering, RAG pipelines, API-based LLM orchestration |
+| MLOps & Deployment | ●●●○○ | Model serving, containerized inference, CI/CD for ML |
+| Data Engineering | ●●●●○ | ETL pipelines, SQL Server data warehousing, query optimization |
 
 </div>
 
 ---
 
-## 📜 07. Industry Certifications
+### 🟣 Featured Projects
+
+<details>
+<summary><b>🔹 Enterprise HR & Payroll Platform</b></summary>
+<br/>
+
+A full-featured HR management system covering payroll processing, statutory compliance, attendance, and leave management for enterprise clients.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | ASP.NET Core, EF Core, SQL Server, React |
+| **Scale** | 10,000+ employee records, multi-tenant architecture |
+| **Performance** | Sub-200ms API response time under load |
+| **Security** | Role-based access control, JWT auth, encrypted PII |
+| **Impact** | Reduced payroll processing time by 60% |
+| **Repository** | [View Repo](#) |
+
+</details>
+
+<details>
+<summary><b>🔹 Order Management API</b></summary>
+<br/>
+
+RESTful API platform with JWT authentication, role-based access, and full Swagger documentation for enterprise order processing.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | ASP.NET Core Web API, SQL Server, Redis |
+| **Scale** | Handles 50K+ daily transactions |
+| **Performance** | Optimized queries reducing latency by 40% |
+| **Security** | OAuth2, rate limiting, input validation middleware |
+| **Impact** | Deployed across 3 regional business units |
+| **Repository** | [View Repo](#) |
+
+</details>
+
+<details>
+<summary><b>🔹 AI-Powered Support Assistant</b></summary>
+<br/>
+
+An LLM-integrated customer support assistant using RAG architecture to answer product queries from internal documentation.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python, FastAPI, LangChain, Vector DB, React |
+| **Scale** | 5,000+ document embeddings indexed |
+| **Performance** | Average response time under 2 seconds |
+| **Security** | API key management, request sanitization |
+| **Impact** | Reduced support ticket volume by 35% |
+| **Repository** | [View Repo](#) |
+
+</details>
+
+<details>
+<summary><b>🔹 Inventory Analytics Dashboard</b></summary>
+<br/>
+
+Real-time inventory tracking and reporting dashboard with predictive stock-level alerts.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | .NET MVC, T-SQL, Chart.js, Azure SQL |
+| **Scale** | Tracks 200+ warehouse SKUs in real time |
+| **Performance** | Live data refresh under 1 second |
+| **Security** | Audit logging, encrypted connection strings |
+| **Impact** | Cut stock-out incidents by 25% |
+| **Repository** | [View Repo](#) |
+
+</details>
+
+---
+
+### 🟣 Experience
+
+**Senior Full Stack Engineer** — `YOUR_COMPANY`
+*YOUR_START_DATE – YOUR_END_DATE*
+
+Led backend and database architecture for enterprise-scale applications, mentoring junior engineers and driving technical standards across teams.
+
+- Designed and implemented RESTful APIs serving multiple internal and client-facing applications
+- Optimized SQL Server queries and indexing strategy, reducing average query time significantly
+- Led migration of legacy .NET Framework applications to .NET Core
+- Collaborated cross-functionally with product and design teams on feature delivery
+
+<p><img src="https://img.shields.io/badge/C%23-1a1a2e?style=flat-square&logo=csharp&logoColor=9D4EDD" /> <img src="https://img.shields.io/badge/ASP.NET_Core-1a1a2e?style=flat-square&logo=dotnet&logoColor=9D4EDD" /> <img src="https://img.shields.io/badge/SQL_Server-1a1a2e?style=flat-square&logo=microsoftsqlserver&logoColor=9D4EDD" /> <img src="https://img.shields.io/badge/Azure-1a1a2e?style=flat-square&logo=microsoftazure&logoColor=9D4EDD" /></p>
+
+---
+
+### 🟣 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🏆 YOUR_ACHIEVEMENT_1 | Brief description of the achievement |
+| 🏆 YOUR_ACHIEVEMENT_2 | Brief description of the achievement |
+| 🏆 YOUR_ACHIEVEMENT_3 | Brief description of the achievement |
+
+</div>
+
+---
+
+### 🟣 Certifications
+
+**AWS**
+<p><img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" /></p>
+
+**Oracle**
+<p><img src="https://img.shields.io/badge/Oracle_Certified_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></p>
+
+**NPTEL**
+<p><img src="https://img.shields.io/badge/NPTEL_Certification-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white" /></p>
+
+**Cisco**
+<p><img src="https://img.shields.io/badge/Cisco_Certified_Network_Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></p>
+
+---
+
+### 🟣 Coding Profiles
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SA Pro"/>
-  <img src="https://img.shields.io/badge/AWS-Machine_Learning_Specialty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS ML Specialty"/>
-  <img src="https://img.shields.io/badge/Kubernetes-CKAD_Certified_Developer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKAD"/>
-  <img src="https://img.shields.io/badge/Oracle-Java_SE_11_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certified"/>
-  <img src="https://img.shields.io/badge/Cisco-CCNA_Network_Associate-1D69CC?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA"/>
+<a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+<a href="https://geeksforgeeks.org/user/YOUR_USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-1a1a2e?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
+<a href="https://hackerrank.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/HackerRank-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=00EA64" /></a>
+<a href="https://codechef.com/users/YOUR_USERNAME"><img src="https://img.shields.io/badge/CodeChef-1a1a2e?style=for-the-badge&logo=codechef&logoColor=5B4638" /></a>
 </p>
 
 ---
 
-## 💻 08. Competitive Programming Profiles
-
-<p align="center">
-  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-Top_1.5%25_(Rating:_2180+)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-Overall_Rank_Top_50-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-  <br/><br/>
-  <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-5_Stars_Problem_Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-  <a href="https://codechef.com"><img src="https://img.shields.io/badge/CodeChef-5_Star_Division_1-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-</p>
-
----
-
-## 📊 09. GitHub Analytics Dashboard
+### 🟣 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=violet&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=6366F1&text_color=E2E8F0&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=violet&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" width="48%" alt="GitHub Streak" />
-  
-  <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=violet&hide_border=true&title_color=8B5CF6&text_color=E2E8F0&bg_color=0D1117" width="55%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=7B2FF7&text_color=E6E6FA&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D4EDD&text_color=E6E6FA" width="35%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=9D4EDD&ring=7B2FF7&fire=9D4EDD&currStreakLabel=E6E6FA" />
+
 </div>
 
 ---
 
-## 🏅 10. GitHub Trophies
+### 🟣 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=synthwave&column=6&margin-w=15&margin-h=15&no-bg=true" width="100%" alt="GitHub Trophies"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" />
+
 </div>
 
 ---
 
-## 📈 11. Contribution Activity Graph
+### 🟣 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=6366F1&point=A855F7&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0d1117&color=9D4EDD&line=7B2FF7&point=E6E6FA&hide_border=true" width="100%" />
+
 </div>
 
 ---
 
-## 🐍 12. Contribution Snake Animation
+### 🟣 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
 </div>
+
+> Generated via the [`platane/snk`](https://github.com/Platane/snk) GitHub Action — add the workflow to your profile repo to activate.
 
 ---
 
-## 🎯 13. Current Focus & Objectives
+### 🟣 Current Focus
 
 ```yaml
-Current_Status:
-  Learning: "Distributed Systems Consensus Algorithms (Raft, Paxos) & Triton C++ Extensions"
-  Building: "Open-Source High-Throughput Autonomous Agent Execution Pipeline"
-  Exploring: "Quantum Computing Algorithms & WebAssembly Rust Edge Runtimes"
-  Architecting: "Multi-Region Active-Active Microservices Mesh with Zero Data Loss"
-  Open_To: "Tech Talk Invitations, Open-Source Sponsorships, & Executive Advisory"
+current_focus:
+  learning:
+    - Advanced distributed systems design
+    - LLM fine-tuning and evaluation techniques
+  building:
+    - Enterprise SaaS platform (.NET + AI integration)
+  exploring:
+    - Microservices with .NET and Kubernetes
+    - Vector databases and RAG architectures
+  core:
+    - ASP.NET Core
+    - SQL Server
+    - System design
+  open_to:
+    - Senior/Staff Engineering roles
+    - AI/ML applied engineering
+    - Open-source collaboration
 ```
 
 ---
 
-## ⚡ 14. Connect & Network
+### 🟣 Connect
 
-<div align="center">
-  <p>Feel free to reach out for tech discussions, engineering leadership insights, or open-source collaboration!</p>
-
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://yourportfolio.dev">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
+<p align="center">
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=E6E6FA" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=E6E6FA" /></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=E6E6FA" /></a>
+<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=vercel&logoColor=E6E6FA" /></a>
+</p>
 
 ---
 
 <div align="center">
-  <sub><i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i></sub>
-  
-  <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&custom_colors=0D1117,581C87,7C3AED,6366F1,38BDF8&height=120&section=footer" width="100%" alt="Footer Banner"/>
+<i>"Great software is built at the intersection of engineering discipline and product thinking."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:7B2FF7,100:6A0DAD&height=120&section=footer" width="100%"/>
+
 </div>
