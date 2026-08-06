@@ -20,6 +20,7 @@
     <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fsoumyaranjan05" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 </div>
+
 ---
 
 ### 🚀 About Me
@@ -27,8 +28,17 @@
 - 🔭 I specialize in building **scalable enterprise applications** using **ASP.NET Core**, **C#**, and **SQL Server**.
 - 💡 I love designing clean **REST APIs**, optimizing **database performance**, and architecting maintainable backend systems.
 - 🌱 Currently exploring **microservices**, **cloud-native architecture (Azure)**, and **performance tuning**.
-- 🤝 Open to collaborating on open-source .NET projects and enterprise-grade solutions.
 - ⚡ Fun fact: I debug faster with coffee ☕ than without.
+
+```
+🤝 OPEN TO:
+
+- Full Stack Engineering roles
+- AI/ML integration & applied engineering projects
+- Open-source collaboration on .NET projects and enterprise-grade solutions
+- Technical consulting & architecture reviews
+
+```
 
 ---
 
