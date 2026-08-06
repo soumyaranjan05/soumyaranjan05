@@ -14,10 +14,10 @@
 
   <p align="center">
     <a href="https://wa.me/919911426918" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-+91_9990066648-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-    <a href="mailto:soumyaranjan05@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-Live_Demo-8B5CF6?style=flat-square&logo=globe&logoColor=white" alt="Portfolio"/></a>
-    <a href="https://www.linkedin.com/in/soumyaranjanmaharana/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="mailto:soumyaranjan05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://yourportfolio.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live_Demo-8B5CF6?style=flat-square&logo=globe&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://www.linkedin.com/in/soumyaranjanmaharana/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fsoumyaranjan05" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 </div>
 
