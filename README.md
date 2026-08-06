@@ -232,31 +232,11 @@ Senior Software Engineer | High-Growth Cloud Unicorn
 
 ---
 
-## 📊 09. GitHub Analytics Dashboard
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=violet&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=6366F1&text_color=E2E8F0&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=violet&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" width="48%" alt="GitHub Streak" />
-  
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=violet&hide_border=true&title_color=8B5CF6&text_color=E2E8F0&bg_color=0D1117" width="55%" alt="Top Languages" />
-</div>
-
----
-
-## 🏅 10. GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=synthwave&column=6&margin-w=15&margin-h=15&no-bg=true" width="100%" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 📈 11. Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=6366F1&point=A855F7&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumyaranajan05&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=6366F1&point=A855F7&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -265,9 +245,9 @@ Senior Software Engineer | High-Growth Cloud Unicorn
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soumyaranjan05/soumyaranjan05/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soumyaranjan05/soumyaranjan05/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/soumyaranjan05/soumyaranjan05/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
