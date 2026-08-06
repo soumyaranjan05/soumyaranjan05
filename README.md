@@ -14,7 +14,7 @@
   </p>
 
   <p align="center">
-    <a href="https://wa.me/919990066648" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-+91_9990066648-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+    <a href="https://wa.me/919911426918" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-+91_9990066648-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
     <a href="mailto:soumyaranjan05@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-Live_Demo-8B5CF6?style=flat-square&logo=globe&logoColor=white" alt="Portfolio"/></a>
     <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
