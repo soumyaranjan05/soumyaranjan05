@@ -253,17 +253,6 @@ Senior Software Engineer | High-Growth Cloud Unicorn
 
 ---
 
-## 🎯 13. Current Focus & Objectives
-
-```yaml
-Current_Status:
-  Learning: "Distributed Systems Consensus Algorithms (Raft, Paxos) & Triton C++ Extensions"
-  Building: "Open-Source High-Throughput Autonomous Agent Execution Pipeline"
-  Exploring: "Quantum Computing Algorithms & WebAssembly Rust Edge Runtimes"
-  Architecting: "Multi-Region Active-Active Microservices Mesh with Zero Data Loss"
-  Open_To: "Tech Talk Invitations, Open-Source Sponsorships, & Executive Advisory"
-```
-
 ---
 
 ## ⚡ 14. Connect & Network
@@ -289,8 +278,6 @@ Current_Status:
 
 <div align="center">
   <sub><i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i></sub>
-  
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&custom_colors=0D1117,581C87,7C3AED,6366F1,38BDF8&height=120&section=footer" width="100%" alt="Footer Banner"/>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:7B2FF7,100:6A0DAD&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
