@@ -8,8 +8,8 @@
   </a>
 
   <p align="center">
-    <a href="https://github.com"><img src="https://img.shields.io/badge/Degree-MCA-8B5CF6?style=for-the-badge&logo=academicons&logoColor=white" alt="Academic Badge"/></a>
-    <a href="https://github.com"><img src="https://img.shields.io/badge/Location-Noida,%20India%2C_CA-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge"/></a>
+    <a href="https://github.com"><img src="https://img.shields.io/badge/Degree-MCA-8B5CF6?style=for-the-badge&logo=htmlacademy&logoColor=white" alt="Academic Badge"/></a>
+    <a href="https://github.com"><img src="https://img.shields.io/badge/Location-Noida%2C_India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge"/></a>
     <a href="https://linkedin.com"><img src="https://img.shields.io/badge/Status-Open_to_Lead_Roles-10B981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status Badge"/></a>
   </p>
 
