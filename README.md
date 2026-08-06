@@ -1,24 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=0D1117,581C87,7C3AED,6366F1,38BDF8&height=240&section=header&text=Senior%20Software%20%26%20AI%20Engineer&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Distributed%20Systems%20%E2%80%A2%20Scalable%20AI%20Pipelines%20%E2%80%A2%20Cloud-Native%20Architecture&descAlignY=62&descAlign=50&animation=twinkling" width="100%" alt="Header Banner"/>
-
-
-
-  <br/>
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&custom_colors=0D1117,581C87,7C3AED,6366F1,38BDF8&section=header&text=Soumya%20Ranjan%20Maharana&fontSize=44&fontColor=ffffff&fontAlignY=36&animation=twinkling" width="100%" alt="Header Banner"/>
+<br/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Senior+Software+Architect;Distributed+Systems+%26+LLM+Pipelines;Full-Stack+Cloud-Native+Engineer;Open+Source+Contributor+%26+Tech+Lead" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <a href="https://github.com"><img src="https://img.shields.io/badge/Degree-M.S._in_Computer_Science-8B5CF6?style=for-the-badge&logo=academicons&logoColor=white" alt="Academic Badge"/></a>
-    <a href="https://github.com"><img src="https://img.shields.io/badge/Location-San_Francisco%2C_CA-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge"/></a>
+    <a href="https://github.com"><img src="https://img.shields.io/badge/Degree-MCA-8B5CF6?style=for-the-badge&logo=academicons&logoColor=white" alt="Academic Badge"/></a>
+    <a href="https://github.com"><img src="https://img.shields.io/badge/Location-Noida,%20India%2C_CA-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge"/></a>
     <a href="https://linkedin.com"><img src="https://img.shields.io/badge/Status-Open_to_Lead_Roles-10B981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status Badge"/></a>
   </p>
 
   <p align="center">
+    <a href="https://wa.me/919990066648" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-+91_9990066648-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+    <a href="mailto:soumyaranjan05@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-Live_Demo-8B5CF6?style=flat-square&logo=globe&logoColor=white" alt="Portfolio"/></a>
     <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 
