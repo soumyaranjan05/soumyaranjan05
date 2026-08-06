@@ -1,18 +1,11 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:7B2FF7,100:4B0082&height=250&section=header&text=Soumya%20Ranjan%20Maharana&fontSize=44&fontColor=E6E6FA&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Architect%20|%20Full%20Stack%20.NET%20Developer&descAlignY=55&descSize=18" width="100%" alt="Header Banner" />
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=Senior+Full+Stack+Engineer;.NET+%7C+C%23+%7C+SQL+Server;AI%2FML+%26+Product+Engineering;Building+Scalable+Enterprise+Systems" alt="Typing SVG" />
 
 <br/>
-<h2 align="center">Full Stack .NET Developer | ASP.NET Core / .NET 8 • C# • SQL Server</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=2000&color=9D4EDD&center=true&vCenter=true&width=650&lines=ASP.NET+Core+%7C+Angular+%7C+C%23+%7C+SQL+Server;Building+Scalable+Enterprise+Systems;Custom+Software+Development" alt="Typing SVG" />
 <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Senior+Software+Architect+%26+Technical+Lead;Enterprise+%26+ERP" alt="Typing SVG" />
-  </a>
-<br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Senior+Software+Architect;Distributed+Systems+%26+LLM+Pipelines;Full-Stack+Cloud-Native+Engineer;Open+Source+Contributor+%26+Tech+Lead" alt="Typing SVG" />
-  </a>
+
   <p align="center">
     <a href="https://github.com"><img src="https://img.shields.io/badge/Degree-MCA-8B5CF6?style=for-the-badge&logo=htmlacademy&logoColor=white" alt="Academic Badge"/></a>
     <a href="https://github.com"><img src="https://img.shields.io/badge/Location-Noida%2C_India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge"/></a>
@@ -23,7 +16,7 @@
     <a href="https://wa.me/919911426918" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-+91_9990066648-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
     <a href="mailto:soumyaranjan05@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-Live_Demo-8B5CF6?style=flat-square&logo=globe&logoColor=white" alt="Portfolio"/></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/soumyaranjanmaharana/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 </div>
